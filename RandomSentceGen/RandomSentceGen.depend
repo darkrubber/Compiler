@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1511474175 source:f:\c++\3120\randomsentcegen\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<cstdlib>
+	"RandomSentenceGenerator.h"
+	"Definition.h"
+
+1511471501 f:\c++\3120\randomsentcegen\include\randomsentencegenerator.h
+	<cstring>
+	<map>
+	<fstream>
+	<cstdlib>
+	<vector>
+	"Definition.h"
+	"Production.h"
+
+1511474175 source:f:\c++\3120\randomsentcegen\src\randomsentencegenerator.cpp
+	"RandomSentenceGenerator.h"
+
+1511430858 f:\c++\3120\randomsentcegen\include\definition.h
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	"Production.h"
+
+1511472658 f:\c++\3120\randomsentcegen\include\production.h
+	<vector>
+	<fstream>
+	<iostream>
+	<string>
+	<map>
+
+1511471501 source:f:\c++\3120\randomsentcegen\src\definition.cpp
+	"Definition.h"
+
+1511472416 source:f:\c++\3120\randomsentcegen\src\production.cpp
+	"Production.h"
+
