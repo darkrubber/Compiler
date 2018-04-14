@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1507370593 source:f:\c++\hw1\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstring>
+	<cstdlib>
+	<map>
+	<vector>
+	<algorithm>
+
+1507259868 source:f:\c++\hw1\test.cpp
+	<fstream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+

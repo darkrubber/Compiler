@@ -1,0 +1,8 @@
+int main(){
+ int a, b, c;
+if (a > b)
+ a= 10;
+else b= 26;
+c= 556.44;	
+ return 0;
+}
